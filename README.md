@@ -1,5 +1,6 @@
 # UNIFAC Implementation in Python
 Created by: Eng. Erik Souza
+
 Supervised by: Prof. Dr. Marcos Rogério Mafra
 
 This repository contains a Python implementation of the UNIFAC (UNIversal Functional Activity Coefficient) method developed as supporting material for the Teaching Internship Course of the Master's Program in Chemical Engineering at the Federal University of Paraná (UFPR).
