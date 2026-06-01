@@ -5,7 +5,7 @@ Supervised by: Prof. Dr. Marcos Rogério Mafra
 
 This repository contains a Python implementation of the UNIFAC (UNIversal Functional Activity Coefficient) method developed as supporting material for the Teaching Internship Course of the Master's Program in Chemical Engineering at the Federal University of Paraná (UFPR).
 
-The material was prepared for the course Applied Thermodynamics to Chemical Engineering II (TQ079), offered in June 2026.
+The material was prepared for the course Applied Thermodynamics to Chemical Engineering II (ENQ 052), offered in June 2026.
 
 The notebook presents the complete implementation of the model from first principles, including the combinatorial and residual contributions, together with validation examples based on literature data.
 
