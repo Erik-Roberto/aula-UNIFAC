@@ -19,7 +19,7 @@ https://github.com/Erik-Roberto/aula-UNIFAC
 4. Clique em **Pesquisar**.
 5. Selecione o arquivo **unifac.ipynb**.
 
-![alt text](imagens\importanto_notebook.png)
+![Importando Notebook](imagens/importanto_notebook.png)
 
 O notebook será aberto no Colab. Entretanto, os demais arquivos do repositório ainda não estarão disponíveis no ambiente de execução.
 
@@ -27,7 +27,7 @@ O notebook será aberto no Colab. Entretanto, os demais arquivos do repositório
 
 Crie uma nova célula de código clicando em **+ Código**.
 
-![alt text](imagens\criando_nova_celula.png)
+![Nova Célula](imagens/criando_nova_celula.png)
 
 Cole o código abaixo na célula criada:
 
@@ -38,7 +38,7 @@ Cole o código abaixo na célula criada:
 
 Execute a célula clicando no botão de execução à esquerda.
 
-![alt text](imagens\botao_executar.png)
+![Botão Executar](imagens/botao_executar.png)
 
 Na primeira execução, o Colab exibirá uma mensagem informando que o notebook foi criado por outra pessoa. Clique em **Executar assim mesmo** para continuar.
 
